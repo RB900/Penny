@@ -1,3 +1,3 @@
-<h1> A Penny For Your Thoughts </h>
+A Penny For Your Thoughts
 
 A file to experiment 
